@@ -171,3 +171,7 @@ function keyPressed() {
 
   if (keyCode == 32) randomize();
 }
+
+function mousePressed() {
+  randomize();
+}
